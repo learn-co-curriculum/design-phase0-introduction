@@ -1,7 +1,10 @@
 # Welcome to Design Prep #
-> Welcome to Flatiron's introductory design course. If you're considering a career in design, you're in the right place.
 
-[TK: include verbiage about how Learn.co works, how to toggle between lessons]
+<br><br>
+> ### Welcome to Flatiron's introductory design course. If you're considering a career in design, you're in the right place.
+
+<br><br>
+\(TK: include verbiage about how Learn.co works, how to toggle between lessons)\
 
 This mini-course is designed to help you, a prospective design student:
 * Understand more about design
