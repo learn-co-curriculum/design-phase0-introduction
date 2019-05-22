@@ -7,5 +7,5 @@ This mini-course is designed to help you, a prospective design student:
 * Understand more about design
 * Understand the landscape of the design industry
 * Understand what career opportunities are available
-* Select a design career using our [Design Program Match Tool.](https://theflatironschool.typeform.com/to/FpxjnA)
+* Select a design career using our [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA)
 
