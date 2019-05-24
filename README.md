@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to the Design World
 
 
 # Welcome to Flatiron's introductory design course. If you're considering a career in design, you're in the right place.
