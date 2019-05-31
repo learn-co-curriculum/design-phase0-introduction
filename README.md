@@ -8,5 +8,5 @@
 * The design industry and its landscape
 * The different types of design
 * The various career opportunities available to designers
-* Which design path is best for you by using [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA)
+* Which design path is best for you by using [Design Course Match Tool](https://theflatironschool.typeform.com/to/FpxjnA)
 
